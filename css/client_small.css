@@ -151,6 +151,7 @@
          text-align: justify;
          font-family: "AvenirNextLTPro-Regular";
          text-indent: 2em;
+         font-size: 200px;
      }
      .footeralt {
          position: fixed;
@@ -223,7 +224,6 @@
      #profile {
          padding-right: 5px;
          padding-left: 5px;
-         padding-top: 5px;
      }
      li {
          padding-left: 9px;
