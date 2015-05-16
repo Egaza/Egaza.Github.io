@@ -155,8 +155,7 @@
          font-size: 19px;
      }
      .footeralt {
-         position: fixed;
-         bottom: 0;
+         position: relative;
      }
      .footeralt2 {
          position: relative;
@@ -222,7 +221,7 @@
          text-align: center;
          padding-top: 20px;
          font-family: "Avenir Next";
-         font-size: 40px;
+         font-size: 35px;
      }
      #profile {
          padding-right: 5px;
@@ -286,7 +285,7 @@
          text-align: center;
      }
      .Job {
-         font-size: 25px;
+         font-size: 23px;
          text-align: center;
          font-style: bold;
          padding-bottom: 5px;
