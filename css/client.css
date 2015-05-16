@@ -192,6 +192,13 @@
      text-indent: 2em;
  }
  
+ .Job {
+     font-size: 25px;
+     text-align: center;
+     font-style: bold;
+     padding-bottom: 5px;
+ }
+
  .footeralt {
      position: fixed;
      bottom: 0;
@@ -274,7 +281,7 @@
  #profile {
      padding-right: 5px;
      padding-left: 5px;
-     padding-top: 5px;
+     text-align: center;
  }
  
  li {
