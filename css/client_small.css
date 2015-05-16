@@ -225,11 +225,12 @@
          padding-left: 5px;
      }
      li {
-         padding-left: 9px;
-         padding-right: 9px;
-         padding-bottom: 9px;
-         padding-top: 9px;
+         padding-left: 7px;
+         padding-right: 7px;
+         padding-bottom: 7px;
+         padding-top: 7px;
          text-align: center;
+         font-size: 15px;
      }
      nav {
          text-decoration: none;
