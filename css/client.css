@@ -182,12 +182,12 @@
  }
  
  p {
-     text-align: center;
+     text-align: left;
      font-family: "AvenirNextLTPro-Regular";
  }
  
  .para {
-     text-align: Center;
+     text-align: left;
      font-family: "AvenirNextLTPro-Regular";
      text-indent: 2em;
  }
@@ -197,6 +197,11 @@
      bottom: 0;
  }
  
+ .footeralt2 {
+     position: fixed;
+     bottom: 0;
+ }
+
  footer {
      /*position: fixed;
      bottom: 0;*/

@@ -154,7 +154,10 @@
      }
      .footeralt {
          position: fixed;
-bottom: 0;
+         bottom: 0;
+     }
+     .footeralt2 {
+         position: relative;
      }
      footer {
          /*position: fixed;
